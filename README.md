@@ -12,7 +12,7 @@ El objetivo del sistema es brindar una plataforma donde los estudiantes puedan *
 - Dar likes a los comentarios.
 - Visualizar un **ranking tipo Tier List** con los profesores que dictan una materia, ordenados según su calificación.
 
-## 🛠️ Tecnologías utilizadas
+## Tecnologías utilizadas
 
 - Node.js
 - Express
