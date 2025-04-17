@@ -16,6 +16,8 @@ El objetivo del sistema es brindar una plataforma donde los estudiantes puedan *
 
 - Node.js
 - Express
+- Sequelize
+- MySQL
 - JavaScript
 - Visual Studio Code
 
